@@ -33,8 +33,9 @@ Python<code><img src="https://img.icons8.com/color/python.png"/></code></code> |
 JS | 1.5 | Medium | 0
 Lua | 1 | low | 0
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Language | Year Learned | Confidence | Certifications |
+|:---:|:---:|:---:|
+| C# | Aug 2022 | High | 1 |
+| Python<code><img src="https://img.icons8.com/color/python.png"/></code> | Aug 2020 | Medium | 1 |
+| JS | Dec 2023 | Medium | 0 |
+| Lua | May 2024 | Low | 0 |
