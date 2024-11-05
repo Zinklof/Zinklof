@@ -26,9 +26,9 @@ Since Late 2024 I've had a sudden and vast interest in Cyber Security after the 
 From getting bored and making a discord bot, to making programs that do the most random things for me so I can save seconds of my life that I'm wasting with energy drinks. Programming is life, programming is love; solving problems, logical thinking, knowing and using all sorts of functions, APIs, formulas, theories, math that sometimes flies over my head, and trusting random people on stack overflow and realizing that I shouldn't have done that once I actually understand the subject? Its amazing, and I can never imagine myself getting bored of doing it.
 
 <h2>What Languages do I know?</h2>
-|Language|Years|Confidence|Certifications|
-|:-:|:-:|:-:|:-:|
-C#|2.5|High|1
-Python<code><img src="https://img.icons8.com/color/python.png"/></code></code>|4.5|Medium|1
-JS|1.5|Medium|0
-Lua|1|low|0
+Language | Years | Confidence | Certifications
+:----: | :---: | :---: | :---:
+C# | 2.5 | High | 1
+Python<code><img src="https://img.icons8.com/color/python.png"/></code></code> | 4.5 | Medium | 1
+JS | 1.5 | Medium | 0
+Lua | 1 | low | 0
