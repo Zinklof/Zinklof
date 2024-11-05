@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 - 🔭 I’m currently working on - GoblinBane 0.5 some fateful day and a under NDA Project.
 - 🌱 I’m currently learning - How to cope, JS, CyberSecurity, and C++
@@ -9,3 +9,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't get paid enough to pay my bills in this economy :D
 -->
+
+<h1>Howdy! 🤠👋</h1>
+<h3>I am the one, the only, Zinklof; or Zink for ```cs short```, or even <b>Zink the Zonk of Lof</b> for ```cs long```</h3>
