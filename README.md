@@ -46,6 +46,7 @@ https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000
 | <code><img src="https://img.icons8.com/?size=64&id=20909&format=png&color=000000"/></code> | 2023/2020 | Low | 0 |
 
 <h2>What Software do I know?</h2>
+
 | Software | Year Started | Confidence | Certifications |
 |:---:|:---:|:---:|:---:|
 | <code><img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000"/></code> | Aug 2022 | High | 2 |
