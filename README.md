@@ -11,4 +11,4 @@
 -->
 
 <h1>Howdy! 🤠👋</h1>
-<h3>I am the one, the only, Zinklof; or Zink for ```cs short```, or even <b>Zink the Zonk of Lof</b> for ```cs long```</h3>
+<h3>I am the one, the only, Zinklof; or Zink for ```javascript short```, or even <b>Zink the Zonk of Lof</b> for ```javascript long```</h3>
