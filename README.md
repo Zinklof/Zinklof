@@ -32,8 +32,9 @@ C# | 2.5 | High | 1
 Python<code><img src="https://img.icons8.com/color/python.png"/></code></code> | 4.5 | Medium | 1
 JS | 1.5 | Medium | 0
 Lua | 1 | low | 0
+https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000
 -->
- 
+ <h2>What Languages do I know?</h2>
 
 | Language | Year Learned | Confidence | Certifications |
 |:---:|:---:|:---:|:---:|
@@ -43,4 +44,13 @@ Lua | 1 | low | 0
 | <code><img src="https://img.icons8.com/?size=64&id=40669&format=png&color=000000"/></code> | March 2024 | Low | 0 |
 | <code><img src="https://img.icons8.com/?size=64&id=KppI8aNv6oQe&format=png&color=000000"/></code> | May 2024 | Low | 0 |
 | <code><img src="https://img.icons8.com/?size=64&id=20909&format=png&color=000000"/></code> | 2023/2020 | Low | 0 |
+
+<h2>What Software do I know?</h2>
+| Software | Year Started | Confidence | Certifications |
+|:---:|:---:|:---:|:---:|
+| <code><img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000"/></code> | Aug 2022 | High | 2 |
+| <code><img src="https://img.icons8.com/?size=32&id=y7WGoWNuIWac&format=png&color=000000"/></code><code><img src="https://img.icons8.com/?size=32&id=9OGIyU8hrxW5&format=png&color=000000"/></code> | Aug 2022 | High | 0 |
+| <code><img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000"/></code> | Aug 2022 | Medium | 0 |
+| <code><img src="https://img.icons8.com/?size=64&id=NeNPFdj7MzXi&format=png&color=000000"/></code> | Aug 2022 | Medium | 0 |
+| <code><img src="https://img.icons8.com/?size=64&id=69503&format=png&color=000000"/></code> | May 2024 | Low | 0 |
 
