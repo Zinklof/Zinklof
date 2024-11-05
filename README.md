@@ -11,4 +11,9 @@
 -->
 
 <h1>Howdy! 🤠👋</h1>
-<h3>I am the one, the only, Zinklof; or Zink for ```javascript short```, or even <b>Zink the Zonk of Lof</b> for ```javascript long```</h3>
+<h3>I am the one, the only, Zinklof; or Zink for short, or even <b>Zink the Zonk of Lof</b> for long</h3>
+
+```cs
+int myNewVar = 15
+short myVar = 20;
+```
