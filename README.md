@@ -33,9 +33,10 @@ Python<code><img src="https://img.icons8.com/color/python.png"/></code></code> |
 JS | 1.5 | Medium | 0
 Lua | 1 | low | 0
 -->
+
 | Language | Year Learned | Confidence | Certifications |
 |:---:|:---:|:---:|:---:|
 | C#<code><img src="https://img.icons8.com/color/c-sharp-logo.png"/></code> | Aug 2022 | High | 1 |
 | Python<code><img src="https://img.icons8.com/color/python.png"/></code> | Aug 2020 | Medium | 1 |
 | JS<code><img src="https://img.icons8.com/color/javascript.png"/></code> | Dec 2023 | Medium | 0 |
-| Lua<code><img src="https://img.icons8.com/?size=100&id=KppI8aNv6oQe&format=png&color=000000"/></code> | May 2024 | Low | 0 |
+| Lua<code><img src="https://img.icons8.com/?size=32&id=KppI8aNv6oQe&format=png&color=000000"/></code> | May 2024 | Low | 0 |
