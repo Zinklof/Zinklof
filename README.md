@@ -127,3 +127,14 @@ USA-NJ: https://img.icons8.com/?size=100&id=6wBSXgD-30f4&format=png&color=000000
   I found out github web has a preview feature halfway through doing this...
  </i>
 </p>
+
+<h1 align="center">
+  Follow me elsewhere (please)
+</h1>
+
+<div align="center" width="50">
+  <p align="center">
+    <a href="https://youtube.com/@ZinklofDev"><img src="https://img.icons8.com/?size=50&id=19318&format=png&color=000000"/>
+    <a href="https://steamcommunity.com/id/Zinklof"><img src="https://img.icons8.com/?size=100&id=zNqjI8XKkCv0&format=png&color=000000"/>
+  </p>
+</div>
