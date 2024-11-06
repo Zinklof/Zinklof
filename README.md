@@ -16,7 +16,7 @@ USA: https://img.icons8.com/?size=100&id=15532&format=png&color=000000
 ITA: https://img.icons8.com/?size=100&id=15542&format=png&color=000000
 -->
 
-<p><code><img src="https://img.icons8.com/?size=100&id=15532&format=png&color=000000"/></code><span style="float : right;"><code><img src="https://img.icons8.com/?size=100&id=15542&format=png&color=000000"/></code></span></p>
+<p><code><img src="https://img.icons8.com/?size=100&id=15532&format=png&color=000000"/></code><align="right"><code><img src="https://img.icons8.com/?size=100&id=15542&format=png&color=000000"/></code></align></p>
 <h1>Howdy! 🤠👋</h1>
 <h3>I am the one, the only, Zinklof; or Zink for short, or even <b>Zink the Zonk of Lof</b> for <color=#00ff00>long</h3>
 
