@@ -51,7 +51,8 @@ https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000
 |:---:|:---:|:---:|:---:|
 | <code><img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000"/></code> | Aug 2022 | High | 2 |
 | <code><img src="https://img.icons8.com/?size=32&id=y7WGoWNuIWac&format=png&color=000000"/></code><code><img src="https://img.icons8.com/?size=32&id=9OGIyU8hrxW5&format=png&color=000000"/></code> | Aug 2022 | High | 0 |
-| <code><img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000"/></code> | Aug 2022 | Medium | 0 |
+| <code><img src="https://img.icons8.com/?size=64&id=G4eJnugooC61&format=png&color=000000"/></code> | Aug 2022 | Medium | 0 |
 | <code><img src="https://img.icons8.com/?size=64&id=NeNPFdj7MzXi&format=png&color=000000"/></code> | Aug 2022 | Medium | 0 |
+| <code><img src="https://img.icons8.com/?size=64&id=YVUnhDRlYcgE&format=png&color=000000"/></code> | Nov 2023 | Low | 0 |
 | <code><img src="https://img.icons8.com/?size=64&id=69503&format=png&color=000000"/></code> | May 2024 | Low | 0 |
 
