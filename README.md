@@ -12,9 +12,11 @@
 for future refrence syntax did indeed work KEK, just can't do it inline
 
 should come back and try to change this to use Source Code Pro as the font KEK
+USA: https://img.icons8.com/?size=100&id=15532&format=png&color=000000
+ITA: https://img.icons8.com/?size=100&id=15542&format=png&color=000000
 -->
 
-<p align="left"> <code><img src="https://img.icons8.com/?size=100&id=15542&format=png&color=000000"/></code><p align="right"><code><img src="https://img.icons8.com/?size=100&id=15532&format=png&color=000000"/></code></p>
+<p><code><img src="https://img.icons8.com/?size=100&id=15532&format=png&color=000000"/></code><span style "float: right"> <code><img src="https://img.icons8.com/?size=100&id=15542&format=png&color=000000"/></code></p>
 <h1>Howdy! 🤠👋</h1>
 <h3>I am the one, the only, Zinklof; or Zink for short, or even <b>Zink the Zonk of Lof</b> for <color=#00ff00>long</h3>
 
