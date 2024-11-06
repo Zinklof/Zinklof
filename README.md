@@ -64,6 +64,7 @@ Most repos of mine will be private, making games and all I'd rather my source co
 
 <h2>Fancy stats</h2>
 <code><img src="https://github-readme-stats.vercel.app/api?username=zinklof&show_icons=true&theme=transparent"/></code>
-<code><img src="https://visitor-badge.glitch.me/badge?page_id=Zinklof.Zinklof"/></code>
+<!--<code><img src="https://visitor-badge.glitch.me/badge?page_id=Zinklof.Zinklof"/></code> this service is down, i didn't read lol --->
+![](https://api.visitorbadge.io/api/VisitorHit?user=zinklof&repo=zinklof&countColor=%0fffffff
 !Spotify API to show my current song coming soon!
 
