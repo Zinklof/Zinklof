@@ -63,4 +63,4 @@ I'm open to helping out and collaborating on really any kind of project, though 
 Most repos of mine will be private, making games and all I'd rather my source code not float around out there. But for any repositories I make public, unless the readme/license expresses otherwise feel free to fork, pull req, copy, learn from, whatever you please! Just leave credit where credit is due if you directly copy my work 😄
 
 <h2>Fancy stats</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinklof&show_icons=true&theme=transparent)
+<code><img src="https://github-readme-stats.vercel.app/api?username=zinklof&show_icons=true&theme=transparent"/></code>
