@@ -56,3 +56,11 @@ https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000
 | <code><img src="https://img.icons8.com/?size=64&id=YVUnhDRlYcgE&format=png&color=000000"/></code> | Nov 2023 | Low | 0 |
 | <code><img src="https://img.icons8.com/?size=64&id=69503&format=png&color=000000"/></code> | May 2024 | Low | 0 |
 
+<h2>Collaboration and my repositories.</h2>
+<h3>Collaboration</h3>
+I'm open to helping out and collaborating on really any kind of project, though my experience lies best in C# and modding games here an there. If you have any ideas feel free to <a href="mailto:zinklofbusiness@gmail.com"><b>email</b></a> me!
+<h3>My Repositories</h3>
+Most repos of mine will be private, making games and all I'd rather my source code not float around out there. But for any repositories I make public, unless the readme/license expresses otherwise feel free to fork, pull req, copy, learn from, whatever you please! Just leave credit where credit is due if you directly copy my work 😄
+
+<h2>Fancy stats</h2>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinklof&show_icons=true&theme=transparent)
