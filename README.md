@@ -79,7 +79,7 @@ USA-NJ: https://img.icons8.com/?size=100&id=6wBSXgD-30f4&format=png&color=000000
 | Software | Year Started | Confidence | Certifications |
 |:---:|:---:|:---:|:---:|
 | <img src="https://img.icons8.com/?size=64&id=39848&format=png&color=000000" title="Unity Game Engine (22/23/6)"/> | Aug 2022 | High | 2 |
-| <img src="https://img.icons8.com/?size=32&id=y7WGoWNuIWac&format=png&color=000000" title="Visual Studio 2023/2024"/><img src="https://img.icons8.com/?size=32&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code"/> | Aug 2022 | High | 0 |
+| <img src="https://img.icons8.com/?size=32&id=y7WGoWNuIWac&format=png&color=000000" title="Visual Studio 2022"/><img src="https://img.icons8.com/?size=32&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code"/> | Aug 2022 | High | 0 |
 | <img src="https://img.icons8.com/?size=64&id=G4eJnugooC61&format=png&color=000000" title="Maya+Mudbox"/> | Aug 2022 | Medium | 0 |
 | <img src="https://img.icons8.com/?size=64&id=NeNPFdj7MzXi&format=png&color=000000" title="Adobe Photoshop 23/24"/> | Aug 2022 | Medium | 0 |
 | <img src="https://img.icons8.com/?size=64&id=YVUnhDRlYcgE&format=png&color=000000" title="Adobe Substance Painter 3D 23/23"/> | Nov 2023 | Low | 0 |
