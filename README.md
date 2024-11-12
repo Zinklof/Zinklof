@@ -110,17 +110,17 @@ USA-NJ: https://img.icons8.com/?size=100&id=6wBSXgD-30f4&format=png&color=000000
 </h2>
 <b><i>NOTE: STATS ARE NOT CORRECT UNTIL I CAN DEPLOY MY OWN LOCAL INSTANCES OF THE SERVERS THAT CAN ACCESS MY PRIVATE REPOS! DO NOT LOOK AT THIS STUFF YET KEK</i></b>
 <p align="center">
- <img src="https://github-readme-stats-pink-mu-89.vercel.app/api/top-langs/?username=zinklof&langs_count=10&layout=compact"/>
+ <img src="https://github-readme-stats-pink-mu-89.vercel.app/api/top-langs/?username=zinklof&langs_count=5&layout=compact"/>
 </p>
 <p align="center">
 <img src="https://github-readme-stats-pink-mu-89.vercel.app/api?username=zinklof&show_icons=true&theme=transparent"/>
  </p>
  <p align="center">
+  <img src="https://spotify-readme-nine-mu.vercel.app/api/spotify"/>
+</p>
+ <p align="center">
 <!--<code><img src="https://visitor-badge.glitch.me/badge?page_id=Zinklof.Zinklof"/></code> this service is down, i didn't read lol --->
 <img src="https://api.visitorbadge.io/api/VisitorHit?user=zinklof&repo=zinklof&countColor=%237B1E7A"/>
-</p>
-<p align="center">
-!Spotify API to show my current song coming soon!
 </p>
 
 <h1 align="center">
