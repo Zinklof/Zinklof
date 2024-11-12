@@ -108,7 +108,10 @@ USA-NJ: https://img.icons8.com/?size=100&id=6wBSXgD-30f4&format=png&color=000000
 <h2 align="center">
  Fancy stats
 </h2>
-<b><i>NOTE: STATS ARE NOT CORRECT UNTIL I CAN DEPLOY MY OWN LOCAL INSTANCES OF THE SERVERS THAT CAN ACCESS MY PRIVATE REPOS! DO NOT LOOK AT THIS STUFF YET KEK</i></b>
+<p align="center">
+  <b><i>Stats update every ~6 hours</i></b>
+</p>
+
 <p align="center">
  <img src="https://github-readme-stats-pink-mu-89.vercel.app/api/top-langs/?username=zinklof&langs_count=5&layout=compact"/>
 </p>
@@ -118,7 +121,15 @@ USA-NJ: https://img.icons8.com/?size=100&id=6wBSXgD-30f4&format=png&color=000000
  <p align="center">
   <img src="https://spotify-readme-nine-mu.vercel.app/api/spotify"/>
 </p>
- <p align="center">
+<div align="center">
+  <sub>
+    Note: If I am not listening to anything, this will randomly grab a recently listened to song.
+  </sub>
+</div>
+<p>
+   
+</p>
+<p align="center">
 <!--<code><img src="https://visitor-badge.glitch.me/badge?page_id=Zinklof.Zinklof"/></code> this service is down, i didn't read lol --->
 <img src="https://api.visitorbadge.io/api/VisitorHit?user=zinklof&repo=zinklof&countColor=%237B1E7A"/>
 </p>
@@ -133,8 +144,10 @@ USA-NJ: https://img.icons8.com/?size=100&id=6wBSXgD-30f4&format=png&color=000000
     <a href="https://steamcommunity.com/id/Zinklof"><img src="https://img.icons8.com/?size=50&id=zNqjI8XKkCv0&format=png&color=000000"/>
   </p>
 </div>
-<p align="center">
- <i>
-  I found out github web has a preview feature halfway through doing this...
- </i>
-</p>
+<div align="center">
+  <sub>
+   <i>
+    I found out github web has a preview feature halfway through doing this...
+   </i>
+  </sub>
+</div>
