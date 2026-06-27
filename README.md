@@ -42,6 +42,8 @@ USA-NJ: https://img.icons8.com/?size=100&id=6wBSXgD-30f4&format=png&color=000000
  "Professional" Indie Developer
 </h3>
 <p>
+ Since probably 2020 I've been making small mods on the side for video games, slowly learning the ins and outs of how games themselves work. A thing that always facinated me, video games and computers that is. This ended up leading to my choice to attend a Technical High School for Game Design, where from 2022-2026 I learned, and eventually mostly taught, how to make games, and especially how to program. I even eventually went and competed in state championships for my school my junior and senior year!
+  
  Since Mid 2022 I've been developing my own games, It's been my passion, Its something I've found joy and love doing. From Design, to Code, to Models, to Textures, I love it all, even if I'm not to swell at some of the steps.
 </p>
 <h3>
@@ -49,12 +51,30 @@ USA-NJ: https://img.icons8.com/?size=100&id=6wBSXgD-30f4&format=png&color=000000
 </h3>
 <p>
  Since Late 2024 I've had a sudden and vast interest in Cyber Security after the Airforce and Army suggested I enlist and do it for them since I had a background in code. While I'm not great at either as of November 2024, I intend to increase my skill set in these realms, and possibly even pursue a career in Cyber Security.
+
+Around mid 2025 I stopped peering into the world of Cyber Security, mostly because I never found it as fun as coding complex systems was.
 </p>
 <h3>
  General Programming
 </h3>
 <p>
  From getting bored and making a discord bot, to making programs that do the most random things for me so I can save seconds of my life that I'm wasting with energy drinks. Programming is life, programming is love; solving problems, logical thinking, knowing and using all sorts of functions, APIs, formulas, theories, math that sometimes flies over my head, and trusting random people on stack overflow and realizing that I shouldn't have done that once I actually understand the subject? Its amazing, and I can never imagine myself getting bored of doing it.
+</p>
+<h3>
+  Competing Statewide
+</h3>
+<p>In 2025 and 2026 I took two of my games to the SkillsUSA States Championship, taking home bronze both years in a row. (My Junior and Senior year of Highschool). which officially marked the end of my work "for" the school and the school system, and a chance to start working on things I really wanted to work on, instead of what looks or feels pretty. Despite the fact that the way I put that sounds like I regret it, I absolutely don't! I'm beyond glad to have even been able to attend states, let alone go home with a medal twice. And I remember both games that went increadibly fondly! (one of which was Goblinbane! which exists somewhere on Itch.io as version 0.1, which is far, far behind the version that went to SkillsUSA.</p>
+<h3>
+  2026, The Dawn of Bastion
+</h3>
+<p>
+  As 2026 dawned upon us, I've spent the last roughly 8 months pivoting away from the idea of pursuing a computer sceince degree in favor of entering a skilled trade (welding). However, my development journy doesn't stop there. I'm still making games on the side to mess around and have fun! And, As of May 2026 I've begun work on my own game engine called Bastion, seeking to have a long term, highly complex project to stay engaged with for the coming few years, and within the first two months? wow have I made progress!
+</p>
+<h3>
+  Content Creation
+</h3>
+<p>
+  I also do content creation on the side once in a while! Mostly clips or videos having fun with my friends in video games, though I do want to start posting devlogs at some point...
 </p>
 
 <!-- Starting the fancy tables of what software and languages I know  -->
@@ -68,7 +88,7 @@ USA-NJ: https://img.icons8.com/?size=100&id=6wBSXgD-30f4&format=png&color=000000
 | <img src="https://img.icons8.com/color/c-sharp-logo.png" title="C#"/> | Aug 2022 | High | 1 |
 | <img src="https://img.icons8.com/color/python.png" title="Python"/> | Aug 2020 | Medium | 1 |
 | <img src="https://img.icons8.com/color/javascript.png" title="JavaScript"/> | Dec 2023 | Medium | 0 |
-| <img src="https://img.icons8.com/?size=64&id=40669&format=png&color=000000" title="C++"/> | March 2024 | Low | 0 |
+| <img src="https://img.icons8.com/?size=64&id=40669&format=png&color=000000" title="C++"/> | March 2024 | Medium | 0 |
 | <img src="https://img.icons8.com/?size=64&id=KppI8aNv6oQe&format=png&color=000000" title="Lua"/> | May 2024 | Low | 0 |
 | <img src="https://img.icons8.com/?size=64&id=20909&format=png&color=000000" title="HTML/HTML 5"/> | 2023/2020 | Low | 0 |
 
@@ -82,8 +102,8 @@ USA-NJ: https://img.icons8.com/?size=100&id=6wBSXgD-30f4&format=png&color=000000
 | <img src="https://img.icons8.com/?size=32&id=y7WGoWNuIWac&format=png&color=000000" title="Visual Studio 2022"/><img src="https://img.icons8.com/?size=32&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code"/> | Aug 2022 | High | 0 |
 | <img src="https://img.icons8.com/?size=64&id=G4eJnugooC61&format=png&color=000000" title="Maya+Mudbox"/> | Aug 2022 | Medium | 0 |
 | <img src="https://img.icons8.com/?size=64&id=NeNPFdj7MzXi&format=png&color=000000" title="Adobe Photoshop 23/24"/> | Aug 2022 | Medium | 0 |
+| <img src="https://img.icons8.com/?size=64&id=69503&format=png&color=000000" title="Unreal Engine 5.3/5.4"/> | May 2024 | Medium | 0 |
 | <img src="https://img.icons8.com/?size=64&id=YVUnhDRlYcgE&format=png&color=000000" title="Adobe Substance Painter 3D 23/23"/> | Nov 2023 | Low | 0 |
-| <img src="https://img.icons8.com/?size=64&id=69503&format=png&color=000000" title="Unreal Engine 5.3/5.4"/> | May 2024 | Low | 0 |
 
 <!-- Starting section about usage of my repos -->
 
@@ -140,6 +160,7 @@ USA-NJ: https://img.icons8.com/?size=100&id=6wBSXgD-30f4&format=png&color=000000
 
 <div align="center" width="50">
   <p align="center">
+    <a href="https://youtube.com/@Zinklof"><img src="https://img.icons8.com/?size=50&id=19318&format=png&color=000000"/>
     <a href="https://youtube.com/@ZinklofDev"><img src="https://img.icons8.com/?size=50&id=19318&format=png&color=000000"/>
     <a href="https://steamcommunity.com/id/Zinklof"><img src="https://img.icons8.com/?size=50&id=zNqjI8XKkCv0&format=png&color=000000"/>
   </p>
